@@ -22,13 +22,30 @@ pip install -r requirements.txt
 ```
 
 ## Table of Contents
-- Dimensionality Reduction
-- Clustering
-- Regression
-- Classification
-- Deep Learning
-- Recommendation Systems
+**1. Dimensionality Reduction**
+
+**2. Clustering**
+
+**3. Regression**
+
+**4. Classification**
+
+**5. Deep Learning**
+
+**6. Recommendation Systems**
 
 ## License
 
-This project is licensed under the MIT License.
+This tutorial is made available under the MIT License. Feel free to use and modify the code as you see fit.
+
+## References
+The notebook tutorials are heavily inspired by the following Data Science papers and books:
+- "An Introduction to Statistical Learning" by  Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani (https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
+- "Pattern Recognition and Machine Learning" by Christopher M. Bishop.
+- "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (https://www.deeplearningbook.org/)
+- "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent System" by Aurelien Geron.
+
+## Feedback
+
+If you have any suggestions or questions about this tutorial, please open an issue or contact me directly. Your feedback is greatly appreciated!
+
