@@ -14,7 +14,7 @@ git clone https://github.com/your-username/applied-data-science-tutorials.git
 ```
 2. Navigate to the project directory:
 ```
-cd applied-data-science-tutorials
+cd applied-data-science
 ```
 3. Install the required libraries:
 ```
