@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/applied-data-science-tutorials.git
+git clone https://github.com/phpfontana/applied-data-science
 ```
 2. Navigate to the project directory:
 ```
